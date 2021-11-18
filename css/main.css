@@ -13,6 +13,8 @@ h1 {
   margin: auto;
   text-align: center;
   color: #1D2739;
+  padding-bottom: 1rem;
+  font-size: 3rem;
 }
 
 h2{
@@ -26,7 +28,13 @@ body {
     margin: 1rem;
 }
 
-
+p{
+  max-width: 620px;
+  margin: auto;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  font-size: 1.3rem;
+}
 
 
 
@@ -57,7 +65,7 @@ body {
   }
   h1 {
     margin: 0;
-    font-size: 3rem;
+    font-size: 2rem;
     padding-bottom: 1rem;
   }
   p{
